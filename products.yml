@@ -9,9 +9,9 @@
     farms last year. Thanks to its genetic strengths – and to some painstaking quality
     measures by the folks at Fazenda Ambiental Fortaleza – this coffee is both phlegmatic
     and kaleidoscopic.'
-  :upc: '0000000001'
+  :upc: '0000000000017'
   :image_url: ''
-  :sku: '0000000001'
+  :sku: '00000000001'
   :is_food: true
 - :id: 2
   :name: Cascara Tea
@@ -22,9 +22,9 @@
     carried her cascara for two. To yield the most delicious results, steep 5-8 grams
     of cascara in 325 ml of 201 F water for five minutes. Alone, it’s crystalline;
     with a drop of honey, it’s decadent.
-  :upc: '0000000002'
+  :upc: '0000000000024'
   :image_url: ''
-  :sku: '0000000002'
+  :sku: '00000000002'
   :is_food: true
 - :id: 3
   :name: Colombia Tolima Las Brisas
@@ -42,9 +42,9 @@
     thickly fruited clusters of raisin, currant and vanilla – and, in turn, a sensation
     comparable to a humid blast of pre-thunderstorm wind that howls fiendishly and
     bends daffodils in improbable directions. '
-  :upc: '0000000003'
+  :upc: '0000000000031'
   :image_url: ''
-  :sku: '0000000003'
+  :sku: '00000000003'
   :is_food: true
 - :id: 4
   :name: Colombia Cauca Popayán
@@ -63,9 +63,9 @@
     of dried strawberry and vanilla calling to mind some of the more well-executed
     shortcakes we’ve consumed. Espresso is a separate adventure: basil, sweet bell
     pepper and butterscotch swell in sublime succession.'
-  :upc: '0000000004'
+  :upc: 0000000000048
   :image_url: ''
-  :sku: '0000000004'
+  :sku: '00000000004'
   :is_food: true
 - :id: 5
   :name: ! 'Colombia Javier Cantillo Release '
@@ -81,9 +81,9 @@
     and drying on all of his coffee, this selection explodes with lime zest, chamomile,
     bing cherry, and pine honey. Its finish is equal parts luxurious and unexpected:
     the peppery spice of butter basil, followed by a wink of La Bohème sour ale. '
-  :upc: '0000000005'
+  :upc: '0000000000055'
   :image_url: ''
-  :sku: '0000000005'
+  :sku: '00000000005'
   :is_food: true
 - :id: 6
   :name: Colombia Las Margaritas Pacamara Honey
@@ -104,9 +104,9 @@
     strolling through a well-maintained orchard, our nose tickled by the October wind,
     our hands still sticky from the glazed doughnut we vowed (unsuccessfully) not
     to consume in one bite.'
-  :upc: '0000000006'
+  :upc: '0000000000062'
   :image_url: ''
-  :sku: '0000000006'
+  :sku: '00000000006'
   :is_food: true
 - :id: 7
   :name: Colombia Las Margaritas Red Bourbon Honey
@@ -124,9 +124,9 @@
     in point: The Las Margaritas. A Red Bourbon variety (named after “Reunion,” an
     island off the coast of Madagascar that was first called “Bourbon”), this coffee
     is silky and sweet, with zips of cherry, peach and brown sugar. '
-  :upc: '0000000007'
+  :upc: 0000000000079
   :image_url: ''
-  :sku: '0000000007'
+  :sku: '00000000007'
   :is_food: true
 - :id: 8
   :name: Colombia Santander Ocamonte
@@ -144,9 +144,9 @@
     inception, used quality-based premiums for a slew of infrastructure and quality
     of life improvements – kitchen renovations, seed distribution projects, school
     improvements, bridge construction.   '
-  :upc: 0000000008
+  :upc: 0000000000086
   :image_url: ''
-  :sku: 0000000008
+  :sku: 00000000008
   :is_food: true
 - :id: 9
   :name: El Salvador Aida Batlle Kilimanjaro
@@ -162,9 +162,9 @@
     the most sought-after coffees in the U.S. And for good reason: It opens a Kenyan
     coffee’s heartiness, then hopscotches impetuously through hues of tart apple,
     jasmine and lavender.   '
-  :upc: 0000000009
+  :upc: 0000000000093
   :image_url: ''
-  :sku: 0000000009
+  :sku: 00000000009
   :is_food: true
 - :id: 10
   :name: ! "El Salvador Santa Ana Valiente\n      "
@@ -180,9 +180,9 @@
     not to mention this coffee’s generous maple hues – mini gustatory luxuries that
     call to mind a recklessly buttered waffle, drenched in syrup and plum compote,
     then finished with a candied orange peel. '
-  :upc: '0000000010'
+  :upc: 0000000000109
   :image_url: ''
-  :sku: '0000000010'
+  :sku: '00000000010'
   :is_food: true
 - :id: 11
   :name: Ethiopia Yirgacheffe Gelena Abaya Washed
@@ -198,9 +198,9 @@
     touched on the subject of peach pie: The body is like a prodigiously buttered
     crust, etched with caramelized sugar and as warmly rendered as your grandma’s
     recipe. '
-  :upc: '0000000011'
+  :upc: '0000000000116'
   :image_url: ''
-  :sku: '0000000011'
+  :sku: '00000000011'
   :is_food: true
 - :id: 12
   :name: Guatemala Antigua Bella Vista
@@ -217,9 +217,9 @@
     normally experienced when preparing to jump into a crystalline swimming hole,
     unsure of how deep it really is. The payoff, though, is the same: taking a deep
     breath, closing your eyes, and cannonballing right in.'
-  :upc: '0000000012'
+  :upc: '0000000000123'
   :image_url: ''
-  :sku: '0000000012'
+  :sku: '00000000012'
   :is_food: true
 - :id: 13
   :name: Kenya Embu Gikirima
@@ -238,9 +238,9 @@
     the Gikirima is perfect with peach pie under a thatched roof in a Georgia monsoon.
     As it turns out, it’s also quite enjoyable in the backseat of a cab that’s racing
     through (or wedged in) Los Angeles traffic.'
-  :upc: '0000000013'
+  :upc: '0000000000130'
   :image_url: ''
-  :sku: '0000000013'
+  :sku: '00000000013'
   :is_food: true
 - :id: 14
   :name: Kenya Muranga Kangunu Peaberry
@@ -255,9 +255,9 @@
     key lime pie’s stick-to-your-tongue creaminess. And like many a tantalizing pie,
     it’s best left to cool for a bit – perhaps even on a windowsill. Just watch out
     for those pesky neighbors.'
-  :upc: '0000000014'
+  :upc: '0000000000147'
   :image_url: ''
-  :sku: '0000000014'
+  :sku: '00000000014'
   :is_food: true
 - :id: 15
   :name: Mexico Chiapas Triunfo Ana Perez Roblero
@@ -276,9 +276,9 @@
     coffee with hues of milk chocolate, molasses and graham cracker. It fares well
     next to pancakes – or, if you’re a stickler for geographical appropriateness,
     a heaping plate of chilaquiles. '
-  :upc: '0000000015'
+  :upc: '0000000000154'
   :image_url: ''
-  :sku: '0000000015'
+  :sku: '00000000015'
   :is_food: true
 - :id: 16
   :name: Mexico Chiapas Triunfo
@@ -297,9 +297,9 @@
     coffee with hues of milk chocolate, molasses and graham cracker. It fares well
     next to pancakes – or, if you’re a stickler for geographical appropriateness,
     a heaping plate of chilaquiles.  '
-  :upc: '0000000016'
+  :upc: '0000000000161'
   :image_url: ''
-  :sku: '0000000016'
+  :sku: '00000000016'
   :is_food: true
 - :id: 17
   :name: Mexico Oaxaca SICOBI
@@ -315,9 +315,9 @@
     then wet-milled and sundried (usually on cement patios or elevated tarps) on each
     producer’s property. From humble beginnings comes a humble cup: This is the perfect
     coffee to complement a hearty breakfast. Or replace it, if need be.'
-  :upc: '0000000017'
+  :upc: 0000000000178
   :image_url: ''
-  :sku: '0000000017'
+  :sku: '00000000017'
   :is_food: true
 - :id: 18
   :name: Rwanda Kirezi
@@ -335,16 +335,18 @@
     ride through the mountains on a Royal Enfield, goggles mud-splattered and slightly
     askew, one hand pinning the throttle wide open while the other gropes around for
     that bag of chocolate-dipped Haribo Gummi Peaches. '
-  :upc: 0000000018
+  :upc: 0000000000185
   :image_url: ''
-  :sku: 0000000018
+  :sku: 00000000018
   :is_food: true
 - :id: 19
   :name: Extremely Expensive Moka Pot
   :price: 9900
-  :description: >
-    Why do you need this moka pot? Because you don't, that's why. Buy it.
-  :upc: 0000000019
+  :description: ! 'Why do you need this moka pot? Because you don''t, that''s why.
+    Buy it.
+
+'
+  :upc: 0000000000192
   :image_url: ''
-  :sku: 0000000019
+  :sku: 00000000019
   :is_food: false
