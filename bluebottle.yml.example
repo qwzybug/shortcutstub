@@ -9,5 +9,5 @@ supported_networks:
   - MasterCard
   - AmEx
 applepay_merchant_id: merchant.com.companyname.productname
-api_tokens:
+api_keys:
   - api-token
