@@ -45,12 +45,12 @@ end
 get '/payments/client', provides: :json do
   begin
     client_token = Braintree::ClientToken.generate
-    {
-      client_token:       client_token,
-      merchant_id:        Config['applepay_merchant_id'],
-      currency_code:      Config['currency_code'],
-      supported_networks: Config['supported_networks']
-    }.to_json
+    { client: {
+        token:              client_token,
+        merchant_id:        Config['applepay_merchant_id'],
+        currency_code:      Config['currency_code'],
+        supported_networks: Config['supported_networks']
+    }}.to_json
   rescue e
     json_error e.code, e.message
   end
