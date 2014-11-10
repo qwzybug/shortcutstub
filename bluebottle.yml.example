@@ -1,0 +1,13 @@
+---
+environment:    :sandbox
+merchant_id:    merchant-id
+public_key:     public-key
+private_key:    private-key
+currency_code:  USD
+supported_networks:
+  - Visa
+  - MasterCard
+  - AmEx
+applepay_merchant_id: merchant.com.companyname.productname
+api_tokens:
+  - api-token

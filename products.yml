@@ -1,0 +1,350 @@
+---
+- :id: 1
+  :name: Brazil FAF Santa Clara Obata Natural (tin)
+  :price: 1200
+  :description: ! 'The Obata variety’s nickname, “Brazilian Gesha,” owes largely to
+    its breathtaking complexity in the cup: cranberry jam, fresh strawberry rhubarb
+    pie, Merlot. But that’s not quite the full story. Obata, like Gesha, is also resistant
+    to "coffee rust," a bronze-colored fungus that ravaged Central and South American
+    farms last year. Thanks to its genetic strengths – and to some painstaking quality
+    measures by the folks at Fazenda Ambiental Fortaleza – this coffee is both phlegmatic
+    and kaleidoscopic.'
+  :upc: '0000000001'
+  :image_url: ''
+  :sku: '0000000001'
+  :is_food: true
+- :id: 2
+  :name: Cascara Tea
+  :price: 750
+  :description: Cascara is made from the fruit that surrounds the coffee bean. The
+    husk is separated from the seed, then raked and dried. This cascara comes to us
+    from Aida Batlle’s Finca Tanzania. We’ve worked with Aida for four years, and
+    carried her cascara for two. To yield the most delicious results, steep 5-8 grams
+    of cascara in 325 ml of 201 F water for five minutes. Alone, it’s crystalline;
+    with a drop of honey, it’s decadent.
+  :upc: '0000000002'
+  :image_url: ''
+  :sku: '0000000002'
+  :is_food: true
+- :id: 3
+  :name: Colombia Tolima Las Brisas
+  :price: 1100
+  :description: ! 'The Las Brisas comes to us from a collection of farmers in Colombia’s
+    Tolima department, which is situated between a forest preserve and a national
+    park near the country’s Western edge. Coffee cherries – mostly Typica and Caturra
+    varieties, cultivated on 3-4 hectare farms – are selected with fussy precision,
+    then processed on hand-crank de-pulping machines. From there, they’re laid on
+    raised beds under translucent covers, which deflect the persistent (and unpredictably
+    timed) equatorial rains. And since we’re on the topic of weather, it’s worth noting
+    that “brisa” means “breeze” in Spanish. For our money, we couldn’t have invented
+    a better meteorological analog to this coffee’s character: From pour-overs, expect
+    cumulus wisps of cherry, chocolate and citrus. Espresso shots, meanwhile, yield
+    thickly fruited clusters of raisin, currant and vanilla – and, in turn, a sensation
+    comparable to a humid blast of pre-thunderstorm wind that howls fiendishly and
+    bends daffodils in improbable directions. '
+  :upc: '0000000003'
+  :image_url: ''
+  :sku: '0000000003'
+  :is_food: true
+- :id: 4
+  :name: Colombia Cauca Popayán
+  :price: 1200
+  :description: ! 'When we bought Tonx, the digital coffee subscription service, back
+    in April of 2014, we had a rough idea of what the partnership might look like.
+    We knew, for example, that we’d be picking up a talented crew of engineers and
+    designers, each committed to an easier and more delightful home coffee experience.
+    We knew that we’d have to start shipping a lot more coffee each week. We knew
+    we’d have to knock down a wall in our office and order bunch of new chairs. Yet
+    amid all the bustle, we nearly forgot one of the most important features of joining
+    forces with another splendid coffee company: the coffee! Originally sourced by
+    our pals at Tonx, the Cauca Popayán represents the best selections from about
+    100 members of Colombia’s APROCEP coffee organization, located in the country’s
+    coffee-rich Cauca department. It’s pleasantly versatile as a drip, with flecks
+    of dried strawberry and vanilla calling to mind some of the more well-executed
+    shortcakes we’ve consumed. Espresso is a separate adventure: basil, sweet bell
+    pepper and butterscotch swell in sublime succession.'
+  :upc: '0000000004'
+  :image_url: ''
+  :sku: '0000000004'
+  :is_food: true
+- :id: 5
+  :name: ! 'Colombia Javier Cantillo Release '
+  :price: 1200
+  :description: ! 'What, exactly, do we mean by “single-day lot?” Well, we mean that
+    this coffee, harvested in Suaza, a small town in Colombia’s coffee-rich Huila
+    region, is the delicious product of just one day’s picking and processing. Taken
+    at face value, that factoid might not seem like an enormous to-do. But it’s worth
+    a second thought, especially when you consider that some processing facilities
+    in the area bring in as much as five million pounds of coffee cherry per day.
+    (In this case, we’re dealing with 1,500 kilos, or just about 3,300 pounds.) Thanks
+    to the hard work of producer Javier Cantillo, who scrutinizes picking, lot separation,
+    and drying on all of his coffee, this selection explodes with lime zest, chamomile,
+    bing cherry, and pine honey. Its finish is equal parts luxurious and unexpected:
+    the peppery spice of butter basil, followed by a wink of La Bohème sour ale. '
+  :upc: '0000000005'
+  :image_url: ''
+  :sku: '0000000005'
+  :is_food: true
+- :id: 6
+  :name: Colombia Las Margaritas Pacamara Honey
+  :price: 1400
+  :description: ! 'Imagine, if you will, a perfect apple slice, slathered in perfect
+    caramel sauce and served on a piece of glittering china. Imagine that this apple
+    was coddled from a seed: its nutrients closely administered, its access to sunlight
+    dutifully monitored, its skin polished to a retina-threatening sheen. The caramel,
+    meanwhile, was derived from only the most succulent of sugars, then browned to
+    copper perfection. Why do all this imagining? Well because it’s a handy analogue
+    for understanding our Colombia Las Margaritas Pacamara Honey, an exquisite selection
+    from our friends and partners at Granja La Esperanza. Coffee cherries at the farm
+    are grown and selected with care by some of the country’s most experienced cultivators
+    (weak seedlings, meanwhile, are burned), then they’re honey-processed – a technique
+    in which sugar-rich mucilage clings to the seeds as they dry in the sun. The result
+    of all this work is a coffee that vibrates with malic tartness and the slightest
+    hint of bruléed brown sugar. When correctly prepared, it feels to us a bit like
+    strolling through a well-maintained orchard, our nose tickled by the October wind,
+    our hands still sticky from the glazed doughnut we vowed (unsuccessfully) not
+    to consume in one bite.'
+  :upc: '0000000006'
+  :image_url: ''
+  :sku: '0000000006'
+  :is_food: true
+- :id: 7
+  :name: Colombia Las Margaritas Red Bourbon Honey
+  :price: 1200
+  :description: ! 'If our technical geekery has a producer-level counterpart anywhere
+    in the world, it’s at Colombia’s Granja La Esperanza. Several generations into
+    their coffee legacy, these folks don’t just take farming seriously; they’re actively
+    pushing the limits of what coffee can do. While we tinker with brew ratios and
+    TDS counts, they’re offering rigorous training to their pickers, creating 95 different
+    quality control checkpoints in their processing facilities, and burning (not just
+    composting. Burning.) weak seedlings. It’s perhaps no surprise that La Esperanza
+    regularly rakes in awards – they won three of the Specialty Coffee Association
+    of America’s 10 “Coffee of the Year” honors in 2012. But the true mark of their
+    supremacy is a singular dedication to producing better and better coffee. Case
+    in point: The Las Margaritas. A Red Bourbon variety (named after “Reunion,” an
+    island off the coast of Madagascar that was first called “Bourbon”), this coffee
+    is silky and sweet, with zips of cherry, peach and brown sugar. '
+  :upc: '0000000007'
+  :image_url: ''
+  :sku: '0000000007'
+  :is_food: true
+- :id: 8
+  :name: Colombia Santander Ocamonte
+  :price: 1100
+  :description: ! 'This coffee comes to us from the APCO cooperative, located in Colombia’s
+    Santander state, just northeast of Bogota. Founded in 1994, APCO comprises approximately
+    270 farmers, about half of whom are organic certified. The farm, like so many
+    with whom we do business, places an impressive emphasis on sustainability: In
+    order to foster ecological diversity, producers plant sugar cane, plantains, corn,
+    beans, and bananas alongside their coffee; and farmers who don’t yet have organic
+    certifications are strongly encouraged to acquire them. APCO is overseen by an
+    advisory board, whose members are elected democratically every two years. The
+    board includes a president, secretary, treasurer, and various committees – including
+    one that focuses exclusively on fair trade. This last committee has, since its
+    inception, used quality-based premiums for a slew of infrastructure and quality
+    of life improvements – kitchen renovations, seed distribution projects, school
+    improvements, bridge construction.   '
+  :upc: 0000000008
+  :image_url: ''
+  :sku: 0000000008
+  :is_food: true
+- :id: 9
+  :name: El Salvador Aida Batlle Kilimanjaro
+  :price: 2200
+  :description: ! 'Aida Batlle’s Finca Kilimanjaro sits on the slopes of the Ilamatepec
+    volcano, about 40 minutes (and several violently bumpy roads) from downtown Santa
+    Ana, El Salvador. Aida, who has been steadily elevating coffee quality on her
+    family’s farms for more than a decade, is among the first of a new breed: the
+    coffee producer as culinary celebrity. Does the name Kilimanjaro ring a bell?
+    In 2003, just a year after Aida began overseeing operations on her family’s farms,
+    the coffee set a price record in 2003’s Cup of Excellence competition. Today,
+    thanks to Aida’s scrupulous picking and processing standards, it remains among
+    the most sought-after coffees in the U.S. And for good reason: It opens a Kenyan
+    coffee’s heartiness, then hopscotches impetuously through hues of tart apple,
+    jasmine and lavender.   '
+  :upc: 0000000009
+  :image_url: ''
+  :sku: 0000000009
+  :is_food: true
+- :id: 10
+  :name: ! "El Salvador Santa Ana Valiente\n      "
+  :price: 1100
+  :description: ! 'Finca Buenos Aires, a dazzling farm located in a mountainous corner
+    of northwestern El Salvador, has been family owned and operated for three generations.
+    Its current proprietor, Alejandro Valiente, is on a quest to upgrade his operations,
+    advance cup quality, and improve the livelihoods of neighboring farmers in the
+    process. Thanks to his work – and to the region’s old-growth Bourbon plants (a
+    holdover from El Salvador’s pre-Civil War agricultural era) – coffees from Finca
+    Buenos Aires tend to inspire the sort of curiosity and reverence normally reserved
+    for amber-encased fossils. And since you got us going about sap, we’d be remiss
+    not to mention this coffee’s generous maple hues – mini gustatory luxuries that
+    call to mind a recklessly buttered waffle, drenched in syrup and plum compote,
+    then finished with a candied orange peel. '
+  :upc: '0000000010'
+  :image_url: ''
+  :sku: '0000000010'
+  :is_food: true
+- :id: 11
+  :name: Ethiopia Yirgacheffe Gelena Abaya Washed
+  :price: 1200
+  :description: ! 'Just as there is more than one way to skin a cat, bowl a strike
+    and bake a luscious peach pie, so too are there numerous options for harnessing
+    a Yirgacheffe’s truest character. We’ve been carrying the Gelena Abaya, which
+    comes from a sub-region of Sidamo, in Ethiopia, as a dry-processed coffee for
+    the better part of a year. While that coffee is an herbaceous berry-bomb (akin
+    to a mouthwatering chunk of strawberry bubblegum, chased by a mouthful of iced
+    bergamot tea), this iteration is a bit subtler. It combines notes of well-sugared
+    grapefruit with the transparent clarity of jasmine green tea. Oh, and since we
+    touched on the subject of peach pie: The body is like a prodigiously buttered
+    crust, etched with caramelized sugar and as warmly rendered as your grandma’s
+    recipe. '
+  :upc: '0000000011'
+  :image_url: ''
+  :sku: '0000000011'
+  :is_food: true
+- :id: 12
+  :name: Guatemala Antigua Bella Vista
+  :price: 1100
+  :description: ! 'To understand what makes this coffee special, it’s first necessary
+    to understand Luis Pedro Zelaya, the man behind it. A fourth generation coffee
+    farmer, Luis has spent years building his coffee resume – first as the director
+    of the Antigua Coffee Growers Association, then as a trainer to other local farmers.
+    These days, he helps advise producers on everything from soil health to pruning,
+    while still finding time to produce some of the most delicious coffee Guatemala
+    has to offer. The Bella Vista is a crisp and adventurous drip, with swirls of
+    apricot, fig and vanilla. And though it sounds a bit paradoxical, we’ve found
+    that drinking it yields the sort of simultaneous clarity and bright-eyed befuddlement
+    normally experienced when preparing to jump into a crystalline swimming hole,
+    unsure of how deep it really is. The payoff, though, is the same: taking a deep
+    breath, closing your eyes, and cannonballing right in.'
+  :upc: '0000000012'
+  :image_url: ''
+  :sku: '0000000012'
+  :is_food: true
+- :id: 13
+  :name: Kenya Embu Gikirima
+  :price: 1300
+  :description: ! 'In early 2014, our green coffee buyer became the first representative
+    from any coffee roaster to visit Kenya’s Gikirima washing station. The distinction,
+    it turns out, was hard fought: Nestled in the remote Kithuthuru area of Embu County
+    in central Kenya, Gikirima is an hour’s bumpy ride from the nearest paved road.
+    To boot, it’s at an altitude of 1,650 meters – a breath-snatching height that’s
+    ideal for coffee cultivation, albeit less than splendid for rusty Jeeps. Gikirima’s
+    producers, a fastidious bunch, apply a careful hand to their fermenting, drying,
+    conditioning, and storing operations. The result of their labor is a luxurious:
+    a gooey cinnamon bun of a coffee, finished with the gentlest etching of citrus.
+    While a Chemex yields the sticky sweetness of a melted Werther’s caramel, an AeroPress
+    burbles with cocoa and brown sugar. A coffee enjoyed regardless of locale or geography,
+    the Gikirima is perfect with peach pie under a thatched roof in a Georgia monsoon.
+    As it turns out, it’s also quite enjoyable in the backseat of a cab that’s racing
+    through (or wedged in) Los Angeles traffic.'
+  :upc: '0000000013'
+  :image_url: ''
+  :sku: '0000000013'
+  :is_food: true
+- :id: 14
+  :name: Kenya Muranga Kangunu Peaberry
+  :price: 1300
+  :description: ! 'This coffee comes to us by way of the Kangunu Farmers Cooperative
+    Society, an organization of around 1,500 members that serves the central Kenyan
+    villages of Kiru, Njumbi and Ngoto. The co-op, perched on the slopes of the Aberdare
+    Mountains in Muranga County, boasts an impressive commitment to quality. Thanks
+    to its “Kenya-style” wet-processing – a 72-hour ordeal in which cherry is twice-fermented,
+    then washed, then soaked yet again before being sun-dried – it’s at once fruit-forward
+    and crystalline: zippy and refreshing as a raspberry lambic, yet redolent of a
+    key lime pie’s stick-to-your-tongue creaminess. And like many a tantalizing pie,
+    it’s best left to cool for a bit – perhaps even on a windowsill. Just watch out
+    for those pesky neighbors.'
+  :upc: '0000000014'
+  :image_url: ''
+  :sku: '0000000014'
+  :is_food: true
+- :id: 15
+  :name: Mexico Chiapas Triunfo Ana Perez Roblero
+  :price: 1000
+  :description: ! 'The Triunfo comes to us by way of the CESMACH (Campesinos Ecológicos
+    de la Sierra Madre de Chiapas) coffee cooperative in Jaltenango, Chiapas. Back
+    in 2004, CESMACH’s members took a massive risk by cutting ties with a large company
+    that had, up until that point, been buying 100 percent of their coffee. Feeling
+    as though the partnership was undermining their own sustainability efforts, the
+    farmers set about redoubling their commitment to ecological stability – and, of
+    course, looking for new customers. We loved plenty of things about Triunfo right
+    off the bat: its location in a U.N.-designated biosphere, its emphasis on women’s
+    rights, its 167 organic gardens, its collectively-run chicken coops (Especially
+    the coops!). We were even more thrilled once we tried the coffee. The Ana Perez
+    Roblero, named after one of Triunfo’s exceptional producers, is a sweet, sturdy
+    coffee with hues of milk chocolate, molasses and graham cracker. It fares well
+    next to pancakes – or, if you’re a stickler for geographical appropriateness,
+    a heaping plate of chilaquiles. '
+  :upc: '0000000015'
+  :image_url: ''
+  :sku: '0000000015'
+  :is_food: true
+- :id: 16
+  :name: Mexico Chiapas Triunfo
+  :price: 1000
+  :description: ! 'The Triunfo comes to us by way of the CESMACH (Campesinos Ecológicos
+    de la Sierra Madre de Chiapas) coffee cooperative in Jaltenango, Chiapas. Back
+    in 2004, CESMACH’s members took a massive risk by cutting ties with a large company
+    that had, up until that point, been buying 100 percent of their coffee. Feeling
+    as though the partnership was undermining their own sustainability efforts, the
+    farmers set about redoubling their commitment to ecological stability – and, of
+    course, looking for new customers. We loved plenty of things about Triunfo right
+    off the bat: its location in a U.N.-designated biosphere, its emphasis on women’s
+    rights, its 167 organic gardens, its collectively-run chicken coops (Especially
+    the coops!). We were even more thrilled once we tried the coffee. The Rosember
+    Morales, named after one of Triunfo’s exceptional producers, is a sweet, sturdy
+    coffee with hues of milk chocolate, molasses and graham cracker. It fares well
+    next to pancakes – or, if you’re a stickler for geographical appropriateness,
+    a heaping plate of chilaquiles.  '
+  :upc: '0000000016'
+  :image_url: ''
+  :sku: '0000000016'
+  :is_food: true
+- :id: 17
+  :name: Mexico Oaxaca SICOBI
+  :price: 1200
+  :description: ! 'Just as Simon needed his Garfunkel and Jordan needed his Pippen,
+    so too do our peppy single origins call, at times, for a solid counterpoint. A
+    foundation. A honey-hued stalwart with unflinching solidity. A coffee to temper
+    the morning''s unpredictability or to canonize its rituals (depending on how your
+    morning is going). Our Mexico Oaxaca SICOBI is that coffee. Located in a verdant
+    enclave just south of Mexico City, the cooperative comprises four communities:
+    San Francisco Ozolotepec, San Juan Ozolotepec, San Jose Ozolotepec, and Santa
+    Catariza Xanaguia. Cherry is handpicked from farms averaging about a half hectare,
+    then wet-milled and sundried (usually on cement patios or elevated tarps) on each
+    producer’s property. From humble beginnings comes a humble cup: This is the perfect
+    coffee to complement a hearty breakfast. Or replace it, if need be.'
+  :upc: '0000000017'
+  :image_url: ''
+  :sku: '0000000017'
+  :is_food: true
+- :id: 18
+  :name: Rwanda Kirezi
+  :price: 1100
+  :description: ! 'The Kirezi, which comes to us from an 800-member cooperative located
+    in the Nyanza sector just south of Kigali, embodies pretty much everything we
+    love about Rwandan coffees. You’ve got your dense, almost sticky body; your outlines
+    of marmalade, crème brulée and butterscotch; your mandarin pucker in the finish.
+    You’ve got your success story, too: Since its official formation in 2009, Kirezi
+    has taken copious steps to ensure that its superior quality endures. In addition
+    to constructing new cherry sorting and drying tables, they’ve also drastically
+    increased the size of their overall yield – from just 42 bags of coffee in 2010
+    to more than 100 this year. Perhaps paradoxically, the end product of all this
+    care is something brazen, fleeting, even quixotic. Something, perhaps, like a
+    ride through the mountains on a Royal Enfield, goggles mud-splattered and slightly
+    askew, one hand pinning the throttle wide open while the other gropes around for
+    that bag of chocolate-dipped Haribo Gummi Peaches. '
+  :upc: 0000000018
+  :image_url: ''
+  :sku: 0000000018
+  :is_food: true
+- :id: 19
+  :name: Extremely Expensive Moka Pot
+  :price: 9900
+  :description: >
+    Why do you need this moka pot? Because you don't, that's why. Buy it.
+  :upc: 0000000019
+  :image_url: ''
+  :sku: 0000000019
+  :is_food: false
