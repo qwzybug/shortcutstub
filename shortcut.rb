@@ -49,6 +49,7 @@ get '/payments/client', provides: :json do
         token:              client_token,
         merchant_id:        Config['applepay_merchant_id'],
         currency_code:      Config['currency_code'],
+        country_code:       Config['country_code'],
         supported_networks: Config['supported_networks']
     }}.to_json
   rescue e

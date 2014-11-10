@@ -4,6 +4,7 @@ merchant_id:    merchant-id
 public_key:     public-key
 private_key:    private-key
 currency_code:  USD
+country_code:   US
 supported_networks:
   - Visa
   - MasterCard
