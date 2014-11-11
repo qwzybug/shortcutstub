@@ -73,10 +73,10 @@ get '/products/:upc', provides: :json do
 end
 
 post '/payments', provides: :json do
-  nonce = request[:nonce]
+  nonce = params[:nonce]
   json_error 403, "No payment nonce provided!" unless nonce
   
-  product_id = request[:product_id].to_i
+  product_id = params[:product_id].to_i
   product = ProductsByID[product_id]
   json_error 404, "Invalid product!" unless product_id and product and product[:price]
   
@@ -84,11 +84,13 @@ post '/payments', provides: :json do
   cafe = CafesByID[cafe_id]
   json_error 403, "Can't buy physical goods outside a cafe!" unless cafe_id and cafe
   
+  email = params[:email] || ''
+  
   tax = product[:is_food] ? 0 : (product[:price] * 0.0875).round
   
   amount = "%.02f" % ((tax + product[:price]) / 100.0)
   
-  result = Braintree::Transaction.sale(amount: amount, payment_method_nonce: "fake-apple-pay-visa-nonce")
+  result = Braintree::Transaction.sale(amount: amount, payment_method_nonce: nonce)
   
   case result
   when Braintree::SuccessfulResult
@@ -99,8 +101,9 @@ post '/payments', provides: :json do
         tax:          tax,
         total_price:  tax + product[:price],
         date:         Time.now.utc.iso8601,
-        location:     cafe["title"]
-      }}.to_json
+        location:     cafe["title"],
+        email:        email
+      } }.to_json
     else
       json_error 403, "Error processing payment! #{result.errors.first.message}"
     end

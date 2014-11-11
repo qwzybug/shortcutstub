@@ -1,3 +1,10 @@
+GIT
+  remote: git@github.com:rack/rack-contrib
+  revision: 68a8da0256cbc37f9f9f20e4dcaf471432082816
+  specs:
+    rack-contrib (1.2.0)
+      rack (>= 0.9.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -21,4 +28,5 @@ DEPENDENCIES
   braintree (~> 2.35.0)
   json (~> 1.8.1)
   rack (~> 1.5.2)
+  rack-contrib!
   sinatra (~> 1.4.5)
